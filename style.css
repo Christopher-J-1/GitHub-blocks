@@ -1,0 +1,27 @@
+.cont{
+    width: 2000px;
+    margin: 0px auto;
+    background-color: black;
+}
+.row, .row2, .row3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+img{
+    background-color: white;
+    height: auto;
+    width: 500px;
+}
+.row{
+    background-color: cadetblue;
+}
+.row2{
+    background-color: chocolate;
+}
+
+.row3{
+    background-color: darkred;
+}
